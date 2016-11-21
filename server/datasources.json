@@ -14,7 +14,7 @@
   "dbevenement": {
     "url": "mongodb://achba:e10bdm0007@ds159507.mlab.com:59507/dbevenement",
     "name": "dbevenement",
-    "connector": "mongodb"
+    "connector": "mongodb" 
 
   }
 }
