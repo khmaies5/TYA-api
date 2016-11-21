@@ -25,7 +25,8 @@
   },
   "validations": [],
   "relations": {},
-  "acls": [{
+  "acls": [
+    {
       "accessType": "*",
       "principalType": "ROLE",
       "principalId": "$everyone",
@@ -49,6 +50,7 @@
       "principalType": "ROLE",
       "principalId": "$owner",
       "permission": "ALLOW"
-    }],
+    }
+  ],
   "methods": {}
 }

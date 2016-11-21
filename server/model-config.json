@@ -33,19 +33,19 @@
     "public": false
   },
   "admin": {
-    "dataSource": "evenement",
+    "dataSource": "dbevenement",
     "public": true
   },
   "news": {
-    "dataSource": "evenement",
+    "dataSource": "dbevenement",
     "public": true
   },
   "speakers": {
-    "dataSource": "evenement",
+    "dataSource": "dbevenement",
     "public": true
   },
   "sponsor": {
-    "dataSource": "evenement",
+    "dataSource": "dbevenement",
     "public": true
   }
 }
