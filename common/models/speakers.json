@@ -18,6 +18,14 @@
       "type": "string",
       "required": true
     },
+    "country": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "type": "string",
+      "required": true
+    },
     "email": {
       "type": "string",
       "required": true
