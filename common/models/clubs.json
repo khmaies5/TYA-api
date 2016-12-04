@@ -10,7 +10,7 @@
       "type": "number",
       "required": true
     },
-    "clubs": {
+    "Clubs": {
       "type": "string",
       "required": true
     },
